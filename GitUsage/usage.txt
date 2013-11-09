@@ -1,0 +1,12 @@
+全局设置
+git config --global user.name "zjw0722"
+git config --global user.email "zjw_0722@163.com"
+本地常用命令
+git init
+git clone https://github.com/zjw0722/CppPrimer.git directory
+
+git add filename
+git commit -m "message"
+git remote add origin https://github.com/zjw0722/CppPrimer.git
+git push
+
