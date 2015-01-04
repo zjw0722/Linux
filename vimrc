@@ -115,3 +115,6 @@ function SetTitle()
 	autocmd BufNewFile * normal G
 endfunc
 
+" *****************************************************************************
+" 统一显示windows、Unix格式文件
+set fileformat=unix,dos
