@@ -7,4 +7,5 @@
 	# 当执行该脚本时，什么都不会输出，但是执行完后，脚本就被删除了
 	echo 'This line will never print'
 这段代码充分解释了脚本文件首行的作用，它仅仅是指定了一个解释器或者说程序来解释当前脚本而已
-2. set/env/export的区别  
+2. set/env/export的区别
+3. 
